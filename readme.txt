@@ -1,2 +1,1 @@
-"Git is a version control system." 
-"Gity is afree software" 
+"Git is a distributed version control system." 
